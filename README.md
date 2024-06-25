@@ -8,7 +8,8 @@ We will also use optical flow to measure camera movement between frames, enablin
 This project covers various concepts and addresses real-world problems, making it suitable for both beginners and experienced machine learning engineers.
 
 ## Screenshot
-![Project Screenshot](path_to_screenshot_image)
+![screenshot](https://github.com/BenHelal/football_analysis/assets/114242095/4c30de94-39bd-41c9-997f-279fb8c992a3)
+
 
 ## Modules Used
 The following modules are used in this project:
