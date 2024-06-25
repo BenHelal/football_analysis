@@ -83,5 +83,7 @@ def main():
     # Save video
     save_video(output_video_frames, 'output_videos/output_video.avi')
 
+    print("Video saved successfully")
+    
 if __name__ == '__main__':
     main()
