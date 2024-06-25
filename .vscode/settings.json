@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./view_transformer ",
+        "./speed_and_distance_estimator "
+    ]
+}

@@ -1,0 +1,5 @@
+models/*.pt filter=lfs diff=lfs merge=lfs -text
+runs/detect/predict*/08fd33_4.avi filter=lfs diff=lfs merge=lfs -text
+training/*.pt filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
